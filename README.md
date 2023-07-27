@@ -1,30 +1,70 @@
-# Pizzeria-React_Website
+# Getting Started with Create React App
 
-🍕 Welcome to Pizza Delight - A Beginner's Pizza Restaurant Website in React 🍕
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Pizza Delight is a delightful beginner-level pizza restaurant website built using React, where pizza lovers can explore our mouthwatering menu, learn about our restaurant, and place their pizza orders online. This project serves as an excellent starting point for developers looking to enhance their skills in React and web development.
+## Available Scripts
 
-🚀 Features:
+In the project directory, you can run:
 
-**Interactive Menu:** Browse through our scrumptious pizza menu, featuring a variety of flavors, toppings, and sizes to cater to all taste buds.
+### `npm start`
 
-**Order Online:** With our user-friendly interface, customers can easily place their pizza orders online, selecting their favorite toppings and customizing their pizzas to perfection.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-**About Us:** Get to know our story, passion for pizza-making, and our commitment to delivering the best quality and taste in every slice.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-**Contact Information:** Find our contact details, including the address, phone number, and email, making it convenient for customers to get in touch with us.
+### `npm test`
 
-**Responsive Design:** The website is fully responsive and mobile-friendly, ensuring a seamless user experience on all devices.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-💻 Tech Stack:
+### `npm run build`
 
-**React:** Built with the powerful and popular React library, enabling efficient and reusable component-based development.
-**HTML & CSS:** Styled with clean and appealing HTML and CSS for an eye-catching layout.
-**React Router:** Navigating through different pages with smooth transitions using React Router.
-📁 Installation and Usage:
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Clone this repository to your local machine.
-Navigate to the project folder and run **npm install** to install the dependencies.
-Run **npm start** to launch the development server and open the website in your default browser.
-🎉 Get Started:
-Embark on your React journey and dive into the world of web development with our Pizza Delight project. It's an ideal playground for beginners to understand React's fundamentals, state management.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
