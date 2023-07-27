@@ -17,7 +17,9 @@ This is a delightful beginner-level pizza restaurant website built using React, 
 💻 Tech Stack:
 
 **React:** Built with the powerful and popular React library, enabling efficient and reusable component-based development.
+
 **HTML & CSS:** Styled with clean and appealing HTML and CSS for an eye-catching layout.
+
 **React Router:** Navigating through different pages with smooth transitions using React Router.
 
 📁 Installation and Usage:
